@@ -122,13 +122,13 @@ get_weather_button.place(relx=0.40, rely=0.31)
 
 weather_info = tk.StringVar()
 weather_label = tk.Label(root, textvariable=weather_info, fg="white", bg="#6febf2")
-weather_label.place(relx=0.4, rely=0.35)
+weather_label.place(relx=0.4, rely=0.40)
 
 city_label = tk.Label(root, text="", font=("Helvetica", 12, "bold"), fg="white", bg = "#6febf2")
-city_label.pack()
+city_label.place(relx=0.40, rely=0.38)
 
 news_text = tk.Text(root, wrap=tk.WORD, height=10, width=40, fg="black", bg="#6febf2")
-news_text.place(relx=0.52, rely=0.60, anchor='center')
+news_text.place(relx=0.52, rely=0.65, anchor='center')
 
 show_news_button = tk.Button(root, text="Show News", command=show_news_window, bg= "#6febf2")
 show_news_button.place(relx=0.52, rely=0.82, anchor='center')
