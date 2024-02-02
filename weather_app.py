@@ -4,8 +4,8 @@ import webbrowser
 from PIL import Image, ImageTk
 
 # Constants
-WEATHER_API_KEY = "5dfc76d8e11e42a58de163730232609"
-NEWS_API_KEY = "47ee4c511abc4a28a997bb1f92890ed5"
+WEATHER_API_KEY = "YOUR_WEATHER_API_KEY"
+NEWS_API_KEY = "YOUR_NEWS_API_KEY"
 WEATHER_API_URL = "https://api.weatherapi.com/v1/current.json"
 NEWS_API_URL = "https://newsapi.org/v2/everything"
 
