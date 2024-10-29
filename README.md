@@ -32,8 +32,10 @@ This is a simple Weather and News application built using Python and the Tkinter
 
 ## Screenshots
 
-Include screenshots of the application in action.
-  <img src="https://github.com/PankajKrana/Weather_application/assets/118725047/73aa66d6-1b93-425d-8646-8ad4a7649fee" width="450">
+Here is the screenshot of application
+<br>
+<br>
+  <img src="https://github.com/PankajKrana/Weather_application/assets/118725047/73aa66d6-1b93-425d-8646-8ad4a7649fee" width="400">
 
 
 ## License
