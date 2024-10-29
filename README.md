@@ -13,14 +13,20 @@ This is a simple Weather and News application built using Python and the Tkinter
 
 - Python 3.x
 - Tkinter (usually included with Python)
-- Requests library (`pip install requests`)
-- PIL (Python Imaging Library) (`pip install pillow`)
+ ```bash
+  pip install tk
+  pip install requests
+  pip install pillow
+```
 
 ## Getting Started
 
 1. Clone the repository or download the code files.
-2. Install the required libraries using `pip install -r requirements.txt` (if you have a requirements file).
-3. Run the `weather_app.py` file.
+```git
+  git clone https://github.com/PankajKrana/Weather_application.git
+```
+3. Install the required libraries using `pip install -r requirements.txt` (if you have a requirements file).
+4. Run the `weather_app.py` file.
 
 ## Usage
 
